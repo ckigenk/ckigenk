@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Collins%20Kigen-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://ckigenk.github.io/CollinsKigen/)
 [![Upwork](https://img.shields.io/badge/Upwork-Collins-green?style=flat&logo=Upwork&logoColor=green&link=https://www.upwork.com/freelancers/~01cd4a3e225c09c1d4)](https://www.upwork.com/freelancers/~0149a8964d3493eb5b)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Collins-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/collins-kigen-67b74910a/)](https://www.linkedin.com/in/collins-kigen-67b74910a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Collins-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/collins-kigen-85a844229/)](https://www.linkedin.com/in/collins-kigen-85a844229/)
 [![Gmail](https://img.shields.io/badge/Email-ckigen.k@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:ckigen.k@gmail.com)](mailto:ckigen.k@gmail.com)
 
 👋 Hello! I am an Fullstack software developer proficient in Python and JavaScript.
