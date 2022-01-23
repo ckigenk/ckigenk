@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Collins-blue?style=flat&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/collins-kigen-85a844229/)](https://www.linkedin.com/in/collins-kigen-85a844229/)
 [![Gmail](https://img.shields.io/badge/Email-ckigen.k@gmail.com-d14836?style=flat&logo=Gmail&logoColor=red&link=mailto:ckigen.k@gmail.com)](mailto:ckigen.k@gmail.com)
 
-👋 Hello! I am an Fullstack software developer proficient in Python and JavaScript.
+👋 Hello! I am a Fullstack software developer proficient in Python and JavaScript.
 
 `⏰ Last updated: 28th Dec, 2022`
 
