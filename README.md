@@ -25,8 +25,11 @@
 
   - ![](https://progress-bar.dev/92/?title=Django&width=90)
   - ![](https://progress-bar.dev/93/?title=Django-RF&width=90)
-  - ![](https://progress-bar.dev/93/?title=Django-GraphQL&width=90)
   - ![](https://progress-bar.dev/80/?title=Flask&width=90)
+  - ![](https://progress-bar.dev/80/?title=numpy&width=80)
+  - ![](https://progress-bar.dev/80/?title=pandas&width=85)
+  - ![](https://progress-bar.dev/80/?title=bs4&width=80)
+  - ![](https://progress-bar.dev/80/?title=selenium&width=88)
 
 - Javascript
   - ![](https://progress-bar.dev/71/?title=ReactJS&width=90)
