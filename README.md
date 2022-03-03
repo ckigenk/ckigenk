@@ -28,6 +28,7 @@
   - ![](https://progress-bar.dev/80/?title=Flask&width=90)
   - ![](https://progress-bar.dev/80/?title=numpy&width=80)
   - ![](https://progress-bar.dev/80/?title=pandas&width=85)
+  - ![](https://progress-bar.dev/80/?title=matplotib&width=80)
   - ![](https://progress-bar.dev/80/?title=bs4&width=80)
   - ![](https://progress-bar.dev/80/?title=selenium&width=88)
 
