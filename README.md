@@ -16,7 +16,8 @@
 
 ### 💼 Career
 
-- Software Engineer, Freelance ~ January, 2022 - Present
+- Backend Enginner, Giglab ~ January, 2022 - Present
+- Software Developer, Freelance ~ Oct, 2021 - Jan 2022
 
 
 ### 💻 Skills (Languages & Frameworks & Tools)
