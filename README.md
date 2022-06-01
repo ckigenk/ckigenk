@@ -12,7 +12,7 @@
 
 👋 Hello! I am a Fullstack software developer proficient in Python and JavaScript.
 
-`⏰ Last updated: 28th Dec, 2021`
+`⏰ Last updated: 28th May, 2022`
 
 ### 💼 Career
 
