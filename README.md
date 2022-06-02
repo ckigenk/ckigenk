@@ -17,7 +17,7 @@
 ### 💼 Career
 
 - Backend Enginner, Giglab Ltd. ~ January, 2022 - Present
-- Software Developer, Freelance ~ Oct, 2021 - Jan 2022
+- Software Developer, Freelance ~ Oct, 2020 - Jan 2022
 - Intern, icipe ~ Jan - Sept 2021
 
 ### 💻 Skills (Languages & Frameworks & Tools)
