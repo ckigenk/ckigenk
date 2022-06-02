@@ -12,11 +12,11 @@
 
 👋 Hello! I am a Fullstack software developer proficient in Python and JavaScript.
 
-`⏰ Last updated: 28th May, 2022`
+`⏰ Last updated: 02nd June, 2022`
 
 ### 💼 Career
 
-- Backend Enginner, Giglab Ltd. ~ January, 2022 - Present
+- Backend Engineer, Giglab Ltd. ~ January, 2022 - Present
 - Software Developer, Freelance ~ Oct, 2020 - Jan 2022
 - Intern, icipe ~ Jan - Sept 2021
 
