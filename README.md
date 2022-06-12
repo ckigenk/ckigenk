@@ -37,6 +37,7 @@
   - ![](https://progress-bar.dev/71/?title=ReactJS&width=90)
   - ![](https://progress-bar.dev/70/?title=Redux&width=90)
   - ![](https://progress-bar.dev/80/?title=Nodejs&width=80)
+  - ![](https://progress-bar.dev/80/?title=Express js&width=70)
   
 - CI/CD
   - ![](https://progress-bar.dev/85/?title=Docker&width=90)
