@@ -14,6 +14,8 @@
 
 `⏰ Last updated: 02nd June, 2022`
 
+### 📚 **Education**
+* Software Engineering, Moringa School, 2022
 ### 💼 Career
 
 - Backend Engineer, Giglab Ltd. ~ January, 2022 - Present
